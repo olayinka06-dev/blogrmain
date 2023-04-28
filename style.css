@@ -57,6 +57,9 @@ nav{
 .nav-link:hover .nerve{
     height: 150px !important;
 }
+.hope:hover{
+    text-decoration: underline;
+}
 .bolu{
     color: hsl(208, 49%, 24%);
     text-decoration: none;
